@@ -89,7 +89,6 @@ class MainActivity : AppCompatActivity(),View.OnClickListener {
             R.id.ButtonGuu
                     ->ButtonGuu.setImageResource(R.drawable.janken_gu2)
 
-
             R.id.ButtonTyoki
             ->ButtonTyoki.setImageResource(R.drawable.janken_choki2)
 
